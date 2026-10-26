@@ -1,0 +1,16 @@
+# Python 3.7 host (alifapps / older cPanel)
+fastapi==0.95.2
+starlette==0.27.0
+pydantic==1.10.13
+uvicorn==0.17.6
+anyio==3.7.1
+numpy==1.21.6
+scipy==1.7.3
+pandas==1.3.5
+openpyxl==3.1.2
+python-multipart==0.0.5
+click==8.1.7
+h11==0.14.0
+typing-extensions==4.7.1
+# Optional — only if TWIN_DB_URL is postgresql:// or postgres://
+# psycopg2-binary==2.9.9
